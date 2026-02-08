@@ -4,10 +4,8 @@ A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed f
 
 ## Screenshots
 
-![Portfolio Preview](./images/preview/1.png)
-![Portfolio Preview](./images/preview/2.png)
-![Portfolio Preview](./images/preview/3.png)
-![Portfolio Preview](./images/preview/Full Picture.png)
+
+![Portfolio Preview](./images/preview/FullPicture.png)
 
 
 ## Tech Stack
@@ -20,12 +18,8 @@ A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed f
 - **Figma** - Design source (pixel-perfect implementation)
 
 ### Key Features
-- 📱 Fully responsive design
-- 🎨 Pixel-perfect implementation from Figma
-- 🔗 Smooth navigation with anchor links
-- 💼 Portfolio sections: Case Studies, Testimonials, Recent Work
-- 📞 Contact section
-- 🌐 Social media integration (LinkedIn, Behance, Twitter)
+- Fully responsive design
+- Pixel-perfect implementation from Figma
 
 ## How to Run
 
