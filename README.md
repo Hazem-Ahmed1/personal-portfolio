@@ -4,9 +4,7 @@ A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed f
 
 ## Screenshots
 
-
 ![Portfolio Preview](./images/preview/FullPicture.png)
-
 
 ## Tech Stack
 
@@ -38,6 +36,4 @@ cd bootstrap-website-portfolio
    - Double-click the file, or
    - Right-click → Open with → Your preferred browser
 
-
-## Design
-The design was created in Figma and implemented with pixel-perfect accuracy. All spacing, typography, and visual elements match the original design specifications.
+**🎨 [View Figma Design File](https://www.figma.com/design/8wAzqNMJiyFYEpQC8TqE8M/%F0%9F%8E%A8-Personal-Portfolio-Template--Community-?node-id=203-55&t=NujrTtuZgUAvKHmt-0)**
