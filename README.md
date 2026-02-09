@@ -4,6 +4,8 @@ A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed f
 
 For Live Demo : **[press Here](https://hazem-ahmed1.github.io/personal-portfolio-page/)**
 
+**🎨 [View Figma Design File](https://www.figma.com/design/8wAzqNMJiyFYEpQC8TqE8M/%F0%9F%8E%A8-Personal-Portfolio-Template--Community-?node-id=203-55&t=NujrTtuZgUAvKHmt-0)**
+
 ## Screenshots
 
 ![Portfolio Preview](./images/preview/FullPicture.png)
@@ -39,4 +41,4 @@ cd bootstrap-website-portfolio
    - Double-click the file, or
    - Right-click → Open with → Your preferred browser
 
-**🎨 [View Figma Design File](https://www.figma.com/design/8wAzqNMJiyFYEpQC8TqE8M/%F0%9F%8E%A8-Personal-Portfolio-Template--Community-?node-id=203-55&t=NujrTtuZgUAvKHmt-0)**
+
