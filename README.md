@@ -2,6 +2,8 @@
 
 A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed from Figma mockups.
 
+For Live Demo : **[press Here](https://hazem-ahmed1.github.io/personal-portfolio-page/)**
+
 ## Screenshots
 
 ![Portfolio Preview](./images/preview/FullPicture.png)
@@ -10,6 +12,7 @@ A pixel-perfect, responsive portfolio website built with Bootstrap 5, designed f
 
 - **HTML5** - Semantic markup
 - **CSS3** - Custom styling
+- **JS** - IntersectionObserver
 - **Bootstrap 5.3.3** - Responsive grid system and components
 - **Font Awesome 6.5.0** - Icons
 - **Google Fonts** - IBM Plex Mono & Raleway
